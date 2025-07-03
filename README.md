@@ -1,37 +1,37 @@
-React + Vite Setup for datahexclient
-This project uses React with Vite to enable a fast and efficient frontend development experience. It includes Tailwind CSS for utility-first styling and adopts best practices like lazy loading and React Hooks for enhanced performance and maintainability.
+# ⚛️ React + ⚡ Vite Setup for `datahexclient`
 
-🔧 Core Stack
-React – Component-based UI library
+This project uses **React** with **Vite** to deliver a fast and efficient frontend development experience. It includes **Tailwind CSS** for utility-first styling and follows best practices like **lazy loading** and **React Hooks** to ensure high performance and maintainable code.
 
-Vite – Lightweight bundler with lightning-fast HMR
+---
 
-Tailwind CSS – Utility-first CSS framework
+## 🔧 Core Tech Stack
 
-React Router – For client-side routing and lazy loading
+- ✅ **React** – Component-based UI development  
+- ⚡ **Vite** – Fast build tool with Hot Module Replacement (HMR)  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework  
+- 🌐 **React Router** – Client-side routing with lazy loading  
+- 🪝 **React Hooks** – Modern state and lifecycle management (`useState`, `useEffect`, `useContext`)  
+- ✂️ **Lazy Loading** – Optimized performance via dynamic imports
 
-React Hooks – Modern API for managing component logic (e.g., useState, useEffect, useContext)
+---
 
-Lazy Loading – Improves performance by code-splitting and loading pages/components only when needed
+## 🧹 ESLint Configuration
 
-🧹 ESLint Configuration
-The project comes with a minimal ESLint setup. You can expand it based on your preferred style guide or team standards.
+The project includes a basic ESLint setup to enforce code consistency. You can customize it as needed with popular presets like Airbnb, StandardJS, or Prettier.
 
-Official plugins supported:
+### Supported Vite Plugins:
 
-@vitejs/plugin-react – Uses Babel for Fast Refresh
+- [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react) – Uses **Babel** for Fast Refresh  
+- [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react-swc) – Uses **SWC** for blazing-fast refresh
 
-@vitejs/plugin-react-swc – Uses SWC for even faster builds and refresh
+---
 
-🌟 Features
-Fast startup and HMR (Hot Module Replacement)
+## 🌟 Features
 
-Optimized builds via Vite
+- ⚡ Instant startup with Vite
+- 🔥 Hot Module Replacement (HMR)
+- ✂️ Component-level code splitting with `React.lazy`
+- 🎨 Responsive UI with Tailwind CSS
+- 🧩 Modular, reusable component structure
 
-Clean, reusable UI with Tailwind CSS
 
-Component-level code splitting via React’s lazy loading
-
-Scalable structure using modern React patterns
-
-Let me know if you'd like to include installation instructions, folder structure, or deployment details as well.
