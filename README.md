@@ -10,7 +10,7 @@ This project uses **React** with **Vite** to deliver a fast and efficient fronte
 - ⚡ **Vite** – Fast build tool with Hot Module Replacement (HMR)  
 - 🎨 **Tailwind CSS** – Utility-first CSS framework  
 - 🌐 **React Router** – Client-side routing with lazy loading  
-- 🪝 **React Hooks** – Modern state and lifecycle management (`useState`, `useEffect`, `useContext`)  
+- 🪝 **React Hooks** – Modern state and lifecycle management (`useState`, `useEffect`, )  
 - ✂️ **Lazy Loading** – Optimized performance via dynamic imports
 
 ---
